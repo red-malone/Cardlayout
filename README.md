@@ -6,5 +6,7 @@ Basic functionality of card maintaining width and height without mediaquery
 
 
 
-https://github.com/red-malone/Cardlayout/assets/96327578/11a2f160-05ee-49ea-893f-a40e3e009dc9
+
+https://github.com/red-malone/Cardlayout/assets/96327578/ca935140-a909-450e-b0c9-1f045aa5ecb7
+
 
