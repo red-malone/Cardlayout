@@ -1,16 +1,10 @@
 # card_display
 
-A new Flutter project.
+Basic functionality of card maintaining width and height without mediaquery
 
-## Getting Started
+## Video
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/red-malone/Cardlayout/assets/96327578/11a2f160-05ee-49ea-893f-a40e3e009dc9
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
